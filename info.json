@@ -5,6 +5,7 @@
   "displayName" : "Just a test plugin",
   "name" : "flashlight-test-plugin",
   "description" : "This is an example plugin",
+  "version" : "1.0.1",
   "examples" : [
     "say hello world",
     "say good morning"
